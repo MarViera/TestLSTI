@@ -1,2 +1,3 @@
 PMVG: Hola
-PMVG: Checar si actualiza
+PMVG: Checar si actualiza.
+GESG: Veremos
