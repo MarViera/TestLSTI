@@ -1,4 +1,3 @@
 PMVG: Hola
 PMVG: Checar si actualiza.
 GESG: Veremos
-PMVG: Hoy es martes
