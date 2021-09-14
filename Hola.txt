@@ -2,4 +2,3 @@ PMVG: Hola
 PMVG: Checar si actualiza.
 GESG: Veremos
 PMVG: Aquí
-PMVG: Clase del grupo 062
